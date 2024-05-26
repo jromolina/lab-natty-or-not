@@ -6,7 +6,7 @@
 
 Olá pessoal, Jairo aqui! Fazer esse lab foi realmente íncrível, pesquisar as IAs atuais, planejar e gerar um produto totalmente digital foi como sentir o vento do futuro nos tocar, foi realmente muito banaca e inspirador! 
 
-## 🎯 Entendo meu Desafio! Hands on! 💪🔥
+## 🎯 Hands on! 💪🔥
 
 ### Template
 
